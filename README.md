@@ -2,7 +2,7 @@
 
 ![Uirapuru](https://github.com/MurilloFagundesAS/MurilloFagundesAS.github.io/blob/master/Imagens/BloodRunner.png)
 
-  **Blood Runner** é um jogo de infinity runner desenvolvido para o **Sistema Máximizado de Avaliação Unificada em Games (SMAUG)** no segundo semetre de 2019, solitado no curso de Jogos Digitais da FATEC de Carapicuíba, para a conclusão do semestre acadêmico.
+  **Blood Runner** é um jogo de infinity runner desenvolvido para o **Sistema Máximizado de Avaliação Unificada em Games (SMAUG)** no segundo semetre de 2019, solitado no curso de Jogos Digitais da FATEC de Carapicuíba, como requisito para a conclusão do semestre acadêmico.
   
   Esse projeto foi desenvolvido utilizando as linguagens **JavaScript** e **HTML5**, junto a biblioteca **Phaser**. Todo o projeto, suas etapas de criação, enfim, foram documentadas num **GDD**, solicitado pelos docentes. Alguns dos assets utilizados foram baixados gratuitamente na internet.
   
@@ -15,7 +15,7 @@
 - Igor Oliveira, programação
 - Jonathas Texeira, música e efeitos sonôros
 - Julia Araújo, roteiro
-- Murillo Silva, programação
+- Murillo Silva, programação e documentação
 
 **Aprendizados Aplicado ao Projeto**
 - Lógica de programação básica
