@@ -1,6 +1,6 @@
 # Blood Runner (2019)
 
-![Uirapuru](https://github.com/MurilloFagundesAS/MurilloFagundesAS.github.io/blob/master/Imagens/BloodRunner.png)
+![BloodRunner](https://github.com/MurilloFagundesAS/MurilloFagundesAS.github.io/blob/main/Imagens/BloodRunner.png "Blood Runner (2019)")
 
   **Blood Runner** é um jogo de infinity runner desenvolvido para o **Sistema Máximizado de Avaliação Unificada em Games (SMAUG)** no segundo semetre de 2019, solitado no curso de Jogos Digitais da FATEC de Carapicuíba, como requisito para a conclusão do semestre acadêmico.
   
